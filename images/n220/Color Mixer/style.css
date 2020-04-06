@@ -1,0 +1,31 @@
+div {
+    text-align: center;
+}
+
+p {
+    display: inline;
+}
+
+button {
+    margin-left: 50px;
+    margin-top: 20px;
+}
+
+.color {
+    margin: 0 auto;
+    width: 1000px;
+    height: 200px;
+    background-color: black;
+}
+
+.value {
+    line-height: 100px;
+    font-size: 30px;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 990px;
+    height: 100px;
+    border-style: solid;
+    border-color: black;
+    border-width: 5px;
+}

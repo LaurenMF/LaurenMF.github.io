@@ -1,0 +1,24 @@
+h1 {
+    text-align: center;
+}
+
+.middle {
+    text-align: center;
+}
+
+.box {
+    display: inline-block;
+    width: 80px;
+    height: 80px;
+    text-align: center;
+    background-color: rgb(181, 213, 241);
+    margin: 0px;
+    padding: 20px;
+    font-size: 40px;
+    
+}
+
+.win {
+    background-color: aqua;
+    font-size: 40px;
+}
